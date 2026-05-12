@@ -21,7 +21,7 @@ pip install numpy pandas scikit-learn tqdm transformers<br>
 Download Data Set (https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment)<br>
 
 **4. Running the Experiments**<br>
-Open and run main.ipynb
+Open and run **main.ipynb**
 
 **5. Outputs**<br>
 Model evaluation results are saved in **outputs** folder:
