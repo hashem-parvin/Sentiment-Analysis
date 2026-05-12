@@ -7,16 +7,16 @@ pip install numpy pandas scikit-learn tqdm transformers<br>
 
 **2. Project Structure**<br>
 .
-├── config/        # Configuration files
-├── data/          # Data preprocessing scripts
-├── dataset/       # Dataset loader
-├── graph/         # Graph construction modules
-├── model/         # Model definitions
-├── train/         # Training and evaluation scripts
-├── utils/         # Utility functions
-├── outputs/       # Saved models and logs
-├── Tweets.xlsx    # Dataset file
-└── main.ipynb     # Main execution notebook
+├── config/        # Configuration files<br>
+├── data/          # Data preprocessing scripts<br>
+├── dataset/       # Dataset loader<br>
+├── graph/         # Graph construction modules<br>
+├── model/         # Model definitions<br>
+├── train/         # Training and evaluation scripts<br>
+├── utils/         # Utility functions<br>
+├── outputs/       # Saved models and logs<br>
+├── Tweets.xlsx    # Dataset file<br>
+└── main.ipynb     # Main execution notebook<br>
 
 **3. Dataset Preparation**<br>
 Download Data Set (https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment)<br>
