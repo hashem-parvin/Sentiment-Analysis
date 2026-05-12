@@ -6,7 +6,6 @@ pip install torch-geometric  <br>
 pip install numpy pandas scikit-learn tqdm transformers<br>
 
 **2. Project Structure**<br>
-.
 ├── config/        # Configuration files<br>
 ├── data/          # Data preprocessing scripts<br>
 ├── dataset/       # Dataset loader<br>
